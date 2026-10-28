@@ -1,0 +1,1 @@
+pyinstaller --clean --onefile --windowed --name Sleep --icon=assets\zzz.ico frontend\main_window.py
